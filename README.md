@@ -1,5 +1,5 @@
 # wasm-resources-cobol
-WASM resources for COBOL, Portran, Pascal, ADA, SmallTalk (Korean)
+WASM resources for COBOL, Portran, Pascal, ADA and SmallTalk (Korean)
 
 ## 개요
 
