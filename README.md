@@ -55,7 +55,7 @@ WASM resources for COBOL, Portran, Pascal, and ADA (Korean)
 
 ## 문의
 
-대한민국의 웹어셈 팀인 어셈넥스트(AsmNext)는 COBOL, Portran, Pascal, ADA 등을 포함하여 컴파일러를 지원하는 과거형의 다양한 언어를 최신의 기술로 지원할 수 있습니다.
+대한민국의 웹어셈블리(WASM) 연구팀인 어셈넥스트(AsmNext)는 COBOL, Portran, Pascal, ADA 등을 포함하여 컴파일러를 지원하는 과거형의 다양한 언어를 최신의 기술로 지원할 수 있습니다.
 
 주저없이 연락주시기 바랍니다.
 
