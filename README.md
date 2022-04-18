@@ -59,7 +59,7 @@ WASM resources for COBOL, Portran, Pascal, ADA and SmallTalk (Korean)
 
 스몰토크는 자바(Java)와 유사하게 가상머신(VM) 방식으로 작동하는 객체지향 프로그래밍 언어입니다. 해당 VM인 Squeak의 자바스크립트 버전인 SqueakJS가 존재하지만 이것을 WASM으로 포팅한 저명한 실제 사례는 아직 없습니다.
 
-다만 이론적으로는 툴체인 구성이 가능한 기술 스펙으로 이루어져 있습니다.
+[관련 이슈](https://github.com/codefrau/SqueakJS/issues/61)가 한차례 제기된 적이 있습니다. 이론적으로는 툴체인 구성이 가능한 기술 스펙으로 이루어져 있습니다.
 
   * https://squeak.js.org/
   * https://squeak.org/
