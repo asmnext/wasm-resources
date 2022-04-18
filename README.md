@@ -64,6 +64,15 @@ WASM resources for COBOL, Portran, Pascal, ADA and SmallTalk (Korean)
   * https://squeak.js.org/
   * https://squeak.org/
 
+## 그 외: Erlang/Elixir
+
+### Lumen
+
+Erlang 및 Elixir는 최근에도 활발한 유지보수가 되고 있는 언어이지만 주요 사용자 분포는 위에 언급한 언어와 크게 다르지 않습니다. Lumen은 BEAM 가상머신에서 돌아가는 언어 계열(Erlang 등)을 웹어셈블리로 컴파일 하기위한 프로젝트입니다.
+
+  * https://getlumen.org/
+  * https://github.com/lumen/lumen
+
 ## 문의
 
 대한민국의 웹어셈블리(WASM) 연구팀인 어셈넥스트(AsmNext)는 COBOL, Portran, Pascal, ADA, SmallTalk 등을 포함하여 컴파일러를 지원하는 다양한 언어를 최신의 기술로 지원할 수 있습니다.
