@@ -55,5 +55,7 @@ WASM resources for COBOL, Portran, Pascal, and ADA (Korean)
 
 ## 문의
 
+어셈넥스트(AsmNext)는 COBOL, Portran, Pascal, ADA 등을 포함하여 컴파일러를 지원하는 다양한 언어를 최신의 기술인 웹어셈블리로 지원할 수 있습니다.
+
   * support@exts.kr (이메일)
   * https://catswords.re.kr/go/kakaoba (카카오톡 오픈채팅방)
