@@ -21,7 +21,7 @@ WASM resources for COBOL, Portran, Pascal, ADA and SmallTalk (Korean)
 
   * https://github.com/cloudflare/cobweb
 
-### PORTRAN
+## PORTRAN
 
 ### FORTRAN In The Browser
 
@@ -30,7 +30,7 @@ WASM resources for COBOL, Portran, Pascal, ADA and SmallTalk (Korean)
   * https://chrz.de/2020/04/21/fortran-in-the-browser/
 
 
-### Pascal
+## Pascal
 
 ### FreePascal
 
@@ -44,7 +44,7 @@ WASM resources for COBOL, Portran, Pascal, ADA and SmallTalk (Korean)
 
   * https://github.com/marat1961/wasm
 
-### ADA
+## ADA
 
 ### godunko/adawebpack
 
@@ -53,7 +53,7 @@ WASM resources for COBOL, Portran, Pascal, ADA and SmallTalk (Korean)
   * https://github.com/godunko/adawebpack
   * https://blog.adacore.com/use-of-gnat-llvm-to-translate-ada-applications-to-webassembly
 
-### SmallTalk
+## SmallTalk
 
 ### Squeak
 
