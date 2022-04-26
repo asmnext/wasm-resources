@@ -7,11 +7,15 @@
   * Java bytecode (자바의 경우 JNI까지 포함)
   * MSIL (C# 등 닷넷 환경에서 사용)
   * P-Code(VBA)
-  * x86-64/ARM/RISC-V assembly (바이트코드보다는 네이티브에 가까움)
+  * x86-64/ARM/MIPS/RISC-V assembly (바이트코드보다는 네이티브에 가까움)
   * Dalvik bytecode(Android)
   * Industrial IL (IEC 61131-3, 주로 PLC에서 사용)
   * LLVM
   * The custom (virtualized) machine code
+
+## 바이트코드가 개입될 수 있는 인터프리터 언어
+  * PHP
+  * Javascript
 
 ## 제안
 바이트코드 종류에 대한 제안이 있으신 경우 언제든 'Pull request' 해주시기 바랍니다.
