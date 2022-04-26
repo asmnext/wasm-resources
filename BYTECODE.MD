@@ -4,7 +4,7 @@
 
 ## 바이트코드 종류
   * WebAssembly (WASM)
-  * Java bytecode
+  * Java bytecode (자바의 경우 JNI까지 포함)
   * MSIL
   * P-Code(VBA)
   * x86-64/ARM/RISC-V assembly
