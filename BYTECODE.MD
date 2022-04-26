@@ -7,7 +7,7 @@
   * Java bytecode (자바의 경우 JNI까지 포함)
   * MSIL
   * P-Code(VBA)
-  * x86-64/ARM/RISC-V assembly
+  * x86-64/ARM/RISC-V assembly (바이트코드보다는 네이티브에 가까움)
   * Dalvik bytecode(Android)
   * Industrial IL (IEC 61131-3)
   * LLVM
