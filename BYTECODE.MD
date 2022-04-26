@@ -14,7 +14,10 @@
   * x86-64/ARM/MIPS/RISC-V assembly (네이티브)
 
 ## WASM을 지원하는 언어
-  * 참고: https://github.com/appcypher/awesome-wasm-langs
+  * https://github.com/appcypher/awesome-wasm-langs
+
+## 레거시 언어
+  * https://github.com/asmnext/wasm-resources/blob/main/COBOL.MD
 
 ## 제안
 바이트코드 종류에 대한 제안이 있으신 경우 언제든 'Pull request' 해주시기 바랍니다.
