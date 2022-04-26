@@ -1,0 +1,2 @@
+# wasm-resources
+WASM resources
