@@ -9,7 +9,7 @@
   * P-Code(VBA)
   * x86-64/ARM/RISC-V assembly (바이트코드보다는 네이티브에 가까움)
   * Dalvik bytecode(Android)
-  * Industrial IL (IEC 61131-3)
+  * Industrial IL (IEC 61131-3, 주로 PLC에서 사용)
   * LLVM
   * The custom (virtualized) machine code
 
