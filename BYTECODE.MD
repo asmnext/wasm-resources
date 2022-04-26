@@ -13,10 +13,8 @@
   * The custom (virtualized) machine code
   * x86-64/ARM/MIPS/RISC-V assembly (네이티브)
 
-## 바이트코드가 종종 개입되는 언어
-  * Java
-  * PHP
-  * Javascript
+## WASM을 지원하는 언어
+  * 참고: https://github.com/appcypher/awesome-wasm-langs
 
 ## 제안
 바이트코드 종류에 대한 제안이 있으신 경우 언제든 'Pull request' 해주시기 바랍니다.
