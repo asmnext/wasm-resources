@@ -11,4 +11,7 @@
   * Dalvik bytecode(Android)
   * Industrial IL (IEC 61131-3)
   * LLVM
-  * The custom (virtualized) machine code.
+  * The custom (virtualized) machine code
+
+## 제안
+바이트코드 종류에 대한 제안이 있으신 경우 언제든 'Pull request' 해주시기 바랍니다.
