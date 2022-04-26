@@ -13,7 +13,8 @@
   * The custom (virtualized) machine code
   * x86-64/ARM/MIPS/RISC-V assembly (네이티브)
 
-## 바이트코드가 개입될 수 있는 인터프리터 언어
+## 바이트코드가 종종 개입되는 언어
+  * Java
   * PHP
   * Javascript
 
