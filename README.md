@@ -5,5 +5,8 @@ WASM resources (Korean)
   * BYTECODE.MD - 바이트코드 범위
   * PRESS-20220407-2.pdf - 보도자료
 
+## 게시판
+ * https://catswords.info:51080/c/bytecodealliance
+
 ## 문의
   * support@exts.kr
