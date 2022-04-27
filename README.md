@@ -6,4 +6,4 @@ WASM resources (Korean)
   * PRESS-20220407-2.pdf - 보도자료
 
 ## 문의
-  * 
+  * support@exts.kr
