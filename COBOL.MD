@@ -21,14 +21,18 @@ WASM resources for COBOL, Portran, Pascal, ADA and SmallTalk (Korean)
 
   * https://github.com/cloudflare/cobweb
 
-## PORTRAN
+## FORTRAN
 
 ### FORTRAN In The Browser
 
-이 기사는 Portran(F90)을 웹어셈블리로 컴파일 하기 위한 툴체인(LFortran, Flang-7, F18, Dragonegg, AOCC 등)을 다룹니다.
+이 기사는 Fortran(F90)을 웹어셈블리로 컴파일 하기 위한 툴체인(LFortran, Flang-7, F18, Dragonegg, AOCC 등)을 다룹니다.
 
   * https://chrz.de/2020/04/21/fortran-in-the-browser/
 
+그 외 자료
+
+  * https://github.com/DirkWillem/WebAssembly-Fortran-Demo
+  * https://github.com/flang-compiler/flang
 
 ## Pascal
 
